@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: coral;
+}
+.card{
+  
+    width: 1000px;
+    height: 600px;
+    border-radius: 20px;
+    background-color: aliceblue;
+}
+.con{
+    padding-left: 490px;
+    padding-right: 40px;
+    padding-top: 200px;
+}
+.div{
+    padding-top: 70px;
+    padding-left: 440px;
+}
+.i{
+    width: 500px;
+    height: 500px;
+    position: fixed;
+    background-color: brown;
+    border-radius: 20px;
+    
+}
+.b{
+    position: fixed;
+    padding-left: 350px;
+    padding-top: 120px;
+}
+.p{
+    color: rgba(197, 159, 211, 0.84);
+    
+}
+.h2{
+    margin-top: 15px;
+}
+.lor{
+    margin-top: 10px;
+}
+.button{
+ color: aliceblue;
+   font-weight: 700;
+   width: 100px;
+   height: 30px;
+    background-color: coral;
+    border-radius: 20px;
+}
+.but{
+    padding-top: 20px;
+}
